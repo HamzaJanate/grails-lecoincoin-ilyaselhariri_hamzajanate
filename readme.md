@@ -93,7 +93,6 @@ LES ANNONCES:
 ![Capture1](https://user-images.githubusercontent.com/86912253/205485157-64e43f14-0a18-4d1b-b52e-60f203fc2b2a.PNG)
 USERS:
 ![Capture2](https://user-images.githubusercontent.com/86912253/205485179-6ef785fa-8f0f-46a7-860e-eab7c32231e4.PNG)
-Démonstration demandée : 
 
 ## Used By
 
